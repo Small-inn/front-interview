@@ -1,6 +1,0 @@
-# HTML
-
-```javascript
-<html></html>
-```
-

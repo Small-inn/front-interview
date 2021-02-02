@@ -10,7 +10,7 @@ description: 面试题汇总
 
 （2）[作用域](javascript/untitled-1.md)
 
-（3）this指向原则
+（3）[this指向原理分析](javascript/untitled.md)
 
 （4）call、apply、bind原理及实现
 

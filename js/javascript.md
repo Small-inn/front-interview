@@ -1,8 +1,0 @@
----
-description: js
----
-
-# JavaScript
-
-javascript
-

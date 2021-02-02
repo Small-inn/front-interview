@@ -2,9 +2,9 @@
 
 * [前端面试汇总](README.md)
 
-## CSS
+## JavaScript <a id="js-1"></a>
 
-* [css1](css/css1.md)
+* [css1](js-1/css1.md)
 
 ## DOM
 

@@ -1,16 +1,12 @@
 ---
-description: JS语言特性
+description: 面试题汇总
 ---
 
-# JavaScript
+# 前端面试汇总
 
-## 1. 闭包
-
-函数作用域内访问自由变量的操作
+### 1.语言（JavaScript）层面
 
 
 
-## 2.作用域以及作用域链
 
-变量的访问原则
 

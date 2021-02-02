@@ -1,6 +1,6 @@
 # Table of contents
 
-* [JavaScript](README.md)
+* [前端面试汇总](README.md)
 
 ## CSS
 

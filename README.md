@@ -6,7 +6,7 @@ description: 面试题汇总
 
 ### 1.语言（JavaScript）层面
 
-（1）闭包
+（1）闭包[闭包](javascript/bi-bao.md)
 
 （2）作用域
 

@@ -4,6 +4,7 @@
 
 ## JavaScript
 
-* [Untitled](javascript/untitled-1.md)
-* [Untitled](javascript/untitled.md)
+* [闭包](javascript/bi-bao.md)
+* [作用域](javascript/untitled-1.md)
+* [this指向原理分析](javascript/untitled.md)
 
